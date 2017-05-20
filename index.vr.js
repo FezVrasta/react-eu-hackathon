@@ -315,7 +315,7 @@ class App extends React.Component {
     return (
       <View>
 
-        <Pano source={asset("pano.jpg")} />
+        <Pano source={asset("mozilla-office.jpg")} />
 
         <PointLight
           style={{ color: "white", transform: [{ translate: [0, 0, 0] }] }}
